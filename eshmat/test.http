@@ -1,0 +1,31 @@
+### get all books
+GET localhost:8000/api/v1/books
+
+### Create book
+POST localhost:8000/api/v1/books/create/
+Content-Type: application/json
+
+{
+  "title": "Mening eng zo'r chichishim",
+  "author": "Muhammadsayyid",
+  "content": "About best poops",
+  "subtitle": "Ezoza & Bekzod",
+  "isbn": "se23&ad24",
+  "price": "0"
+}
+
+### Delete book by id
+DELETE http://localhost:8000/api/v1/books/5/delete/
+
+### Update book by Id
+PUT localhost:8000/api/v1/books/4/update/
+Content-Type: application/json
+
+{
+  "title": "Mening eng zo'r Sebzor",
+  "author": "Muhammadsayyid",
+  "content": "About best poops",
+  "subtitle": "Ezoza & Bekzod",
+  "isbn": "se23&ad24",
+  "price": "0"
+}

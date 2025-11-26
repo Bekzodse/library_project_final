@@ -1,0 +1,23 @@
+{
+  "status": "Returned 2 books.",
+  "books": [
+    {
+      "id": 2,
+      "title": "goldenHouse",
+      "content": "cdso-ka",
+      "subtitle": "bugun biza",
+      "author": "Sherlok Homes",
+      "isbn": "12",
+      "price": "150.00"
+    },
+    {
+      "id": 3,
+      "title": "s",
+      "content": "s",
+      "subtitle": "s",
+      "author": "s",
+      "isbn": "s",
+      "price": "112.00"
+    }
+  ]
+}

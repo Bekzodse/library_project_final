@@ -1,0 +1,260 @@
+DELETE http://localhost:8000/api/v1/books/5/delete/
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-11-25T162830.200.json
+
+###
+
+DELETE http://localhost:8000/api/v1/books/6/delete/
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-11-25T162817.200.json
+
+###
+
+PUT http://localhost:8000/api/v1/books/4/update/
+Content-Type: application/json
+Content-Length: 173
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "title": "Mening eng zo'r Sebzor",
+  "author": "Muhammadsayyid",
+  "content": "About best poops",
+  "subtitle": "Ezoza & Bekzod",
+  "isbn": "se23&ad24",
+  "price": "0"
+}
+
+<> 2025-11-25T162743.200.json
+
+###
+
+POST http://localhost:8000/api/v1/books/4/update/
+Content-Type: application/json
+Content-Length: 173
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "title": "Mening eng zo'r Sebzor",
+  "author": "Muhammadsayyid",
+  "content": "About best poops",
+  "subtitle": "Ezoza & Bekzod",
+  "isbn": "se23&ad24",
+  "price": "0"
+}
+
+<> 2025-11-25T162728.405.json
+
+###
+
+POST http://localhost:8000/api/v1/books/create/
+Content-Type: application/json
+Content-Length: 177
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "title": "Mening eng zo'r chichishim",
+  "author": "Muhammadsayyid",
+  "content": "About best poops",
+  "subtitle": "Ezoza & Bekzod",
+  "isbn": "se23&ad24",
+  "price": "0"
+}
+
+<> 2025-11-25T162623.200.json
+
+###
+
+POST http://localhost:8000/api/v1/books/create/
+Content-Type: application/json
+Content-Length: 177
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "title": "Mening eng zo'r chichishim",
+  "author": "Muhammadsayyid",
+  "content": "About best poops",
+  "subtitle": "Ezoza & Bekzod",
+  "isbn": "se23&ad24",
+  "price": "0"
+}
+
+<> 2025-11-25T162604.200.json
+
+###
+
+POST http://localhost:8000/api/v1/books/create/
+Content-Type: application/json
+Content-Length: 161
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "title": "Mening eng zo'r chichishim",
+  "author": "Muhammadsayyid",
+  "content": "About best poops",
+  "subtitle": "Ezoza & Bekzod",
+  "isbn": "se23&ad24"
+}
+
+<> 2025-11-25T162517.400.json
+
+###
+
+POST http://localhost:8000/api/v1/books/create/
+Content-Type: application/json
+Content-Length: 177
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "title": "Mening eng zo'r chichishim",
+  "author": "Muhammadsayyid",
+  "content": "About best poops",
+  "subtitle": "Ezoza & Bekzod",
+  "isbn": "se23&ad24",
+  "price": "0"
+}
+
+<> 2025-11-25T162448.200.json
+
+###
+
+GET http://localhost:8000/api/v1/books
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-25T161935.200.json
+
+###
+
+DELETE http://localhost:8000/api/v1/books/3/delete
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-11-25T161804.500.html
+
+###
+
+DELETE http://127.0.0.1:8000/api/v1/books/3/delete/
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-11-25T161303.200.json
+
+###
+
+DELETE http://127.0.0.1:8000/api/v1/books/3/delete
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-11-25T161246.500.html
+
+###
+
+GET http://localhost:8000/api/v1/books
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-25T161216.200.json
+
+###
+
+DELETE http://127.0.0.1:8000/api/v1/books/1/delete/
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-11-25T161203.200.json
+
+###
+
+GET http://localhost:8000/api/v1/books/author/Sherlok%20Homes
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-25T120551.200.json
+
+###
+
+GET http://localhost:8000/api/v1/books/author/eshmat
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-25T120410.200.json
+
+###
+
+GET http://localhost:8000/api/v1/books/author/eshmat
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-25T120157.500.html
+
+###
+
+GET http://localhost:8000/api/v1/books/author/eshmat
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-25T115756.500.html
+
+###
+
+GET http://localhost:8000/api/v1/books/author/eshmat
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-25T115640.404.html
+
+###
+
+GET http://localhost:8000/api/v1/books
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-25T113729.200.json
+
+###
+
+GET http://localhost:8000/api/v1/books
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-25T112220.200.json
+
+###
+
